@@ -10,7 +10,7 @@
 ### Python Day #8 - Numpy package and its methods
 ### Python Day #9 - Pandas package and its Series
 ### Python Day #10 - Pandas package and its Dataframe
-### Python Day #11 - Data slicing in Dataframe, Data Visualiation day#1
+### Python Day #11 - Data slicing in Dataframe, Data Visualization day#1
 ### Python Day #12 - Data Visualization#2
 ### Python Day #13 - Theory application of ML and DL
 ### Python Day #14 - Linear Regression Basic Day#1

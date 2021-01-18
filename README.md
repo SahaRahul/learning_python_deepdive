@@ -1,6 +1,6 @@
 # learning_python_deepdive
 
-### <a href="">Python Day #1</a> - String, print formatting, Operators with Simple program .py and .ipynb 
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day1">Python Day #1</a> - String, print formatting, Operators with Simple program .py and .ipynb 
 ### Python Day #2 - List operation with Loops
 ### Python Day #3 - List, Tuple and its operation
 ### Python Day #4 - System input, Dictionary and Set operation

@@ -14,7 +14,7 @@
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day12">Day #12</a> - Data Visualization#2
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day13">Day #13</a> - Application of ML and DL
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day14">Day #14</a> - Linear Regression Basic Day#1
-### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day15">Day #15</a> - End to End ML project Day#1
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day15">Day #15</a> - End to End ML project Day#1 (Data Load from Git url/tgz/csv, Simple Sampling, StratefiedSuffle Sampling, Continuous to Categorical value)
 
 ### Day #16 - End to End ML project Day#2
 ### Day #17 - End to End ML project Day#3

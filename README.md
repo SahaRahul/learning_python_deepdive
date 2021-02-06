@@ -16,9 +16,10 @@
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day14">Day #14</a> - Linear Regression Basic Day#1
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day15">Day #15</a> - End to End ML project Day#1 
 - Data Load from Git url/tgz/csv, Simple Sampling, StratefiedSuffle Sampling, Continuous to Categorical value
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day16">Day #16</a> - End to End ML project Day#2
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day17">Day #17</a> - End to End ML project Day#3
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day18">Day #18</a> - End to End ML project Day#3
 
-### Day #16 - End to End ML project Day#2
-### Day #17 - End to End ML project Day#3
-### Day #18 - 
-### Day #19 - 
-### Day #20 - 
+### Day #19 - Supervised Learning - Linear Regression Advanced
+### Day #20 - Supervised Learning - Classification
+### Day #21 - Unsupervised Learning

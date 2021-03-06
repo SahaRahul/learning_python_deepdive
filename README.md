@@ -24,5 +24,7 @@
 - Model selection, Cross Validation, Fine tuning, Feature selection with Grid Search
 
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day19">Day #19</a> - Supervised Learning - Classification
-### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day20">Day #20</a> - Supervised Learning - Detail Classification - Decision Tree, Support Vector Machine, Naivee Bayes
-### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day21">Day #21</a> - Supervised Learning - Detail Linear Regression - Normal Equation, SVD, Gradient Descent
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day20">Day #20</a> - Supervised Learning - Detail Classification 
+- Decision Tree, Support Vector Machine, Naivee Bayes
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day21">Day #21</a> - Supervised Learning - Detail Linear Regression 
+- Normal Equation, SVD, Gradient Descent

@@ -34,3 +34,4 @@
 - Agglomaretive Clustering - Hierchical Clustering, DBScan
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day25">Day #25</a> Clustering - Day 3, Time Series Day 1
 ### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day26">Day #26</a> Time Series Day 2
+### <a href="https://github.com/SahaRahul/learning_python_deepdive/tree/main/python_day27">Day #27</a> Time Series Day 3
